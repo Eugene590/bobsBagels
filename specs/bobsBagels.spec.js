@@ -11,7 +11,7 @@ So that I can change my order
 I'd like to remove an item from my basket */
 
 //setup
-
+console.log('\nTest to see whether an item can be added to the basket: ')
 let basket = new Basket();
 let item = 'jerk bagel';
 
